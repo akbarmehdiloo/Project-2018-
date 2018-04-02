@@ -11,6 +11,7 @@ The data set was compiled by the British statistician and biologist Ronald Fishe
 This is perhaps the best known database to be found in the pattern recognition literature. Fisher's paper is a classic in the field and is referenced frequently to this day.  The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other. 
 
 Dataset Information:
+http://archive.ics.uci.edu/ml/datasets/Iris
 
     1. sepal length in cm 
     2. sepal width in cm 
@@ -19,9 +20,8 @@ Dataset Information:
     5. class: 
     -- Iris Setosa 
     -- Iris Versicolour 
-    -- Iris Virginica
-Pictures 
-
+    -- Iris Virginica 
+![irisflowers](https://user-images.githubusercontent.com/36171916/38193491-3b95b53a-366a-11e8-84f9-b8b1bc1df0ec.JPG)
 
                 
                 
