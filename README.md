@@ -1,7 +1,7 @@
 
-##Project-2018
+Project-2018
 
-##Fisher's Iris data set
+Fisher's Iris data set
 
 The Iris dataset was compiled by the British statistician and biologist Ronald Fisher in 1936. It describes particular biological characteristics of various types of Iris flowers, specifically, the length and width of both pedals and the sepals, which are part of the flower’s reproductive system. (https://www.techopedia.com/definition/32880/iris-flower-data-set). 
 
